@@ -1,0 +1,23 @@
+Code erreur
+ 0 : aucune erreur
+ 10 : divergence de la methode
+ 20 : division par 0
+ 30 : racine d'un nombre negatif
+
+Resultat de la dichotomie :
+ racine : 0.290981
+ nombre d'iterations : 18
+ Erreur : 0.000007
+ Code erreur : 0
+
+Resultat du point fixe 1 :
+ racine : 0.290982
+ nombre d'iterations : 3
+ Erreur : 0.000005
+ Code erreur : 0
+
+Resultat de Newton-Raphson :
+ racine : 0.290983
+ nombre d'iterations : 34
+ Erreur : 0.000009
+ Code erreur : 0
